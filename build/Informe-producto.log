@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  18 JUN 2023 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  18 JUN 2023 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,29 +635,27 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 \c@definition=\count332
 \c@problem=\count333
  (c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.colorbrewer.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarycolorbrewer.code.tex)) (build/Informe-producto.aux
-
-Package babel Warning: Undefined language 'nil' in aux.
-(babel)                Reported on input line 5.
-
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `Informe-producto.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -721,45 +719,34 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (build/Informe-producto.toc
-
-build/Informe-producto.toc:1: Package babel Error: You haven't defined the language 'nil' yet.
-(babel)                Perhaps you misspelled it or your installation
-(babel)                is not complete.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \babel@toc {nil}{}
-                      \relax
-Your command will be ignored, type <return> to proceed
-
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 )
 \tf@toc=\write5
 \openout5 = `Informe-producto.toc'.
 
- [2]
-Overfull \hbox (2.08316pt too wide) in paragraph at lines 116--117
+ [2] [3]
+Overfull \hbox (2.08316pt too wide) in paragraph at lines 118--119
 []\OT1/cmr/m/n/10 Mejor co-mu-ni-ca-ci^^Son y co-la-bo-ra-ci^^Son: Las he-rra-mien-tas de co-mu-ni-ca-ci^^Son en l^^S^^Pnea, co-mo el co-rreo electr^^Soni-
  []
 
-[3] [4] (build/Informe-producto.aux
+[4] [5] (build/Informe-producto.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 30188 strings out of 476038
- 757028 string characters out of 5794168
- 1865779 words of memory out of 5000000
- 50147 multiletter control sequences out of 15000+600000
+ 30183 strings out of 476038
+ 756951 string characters out of 5794168
+ 1861779 words of memory out of 5000000
+ 50143 multiletter control sequences out of 15000+600000
  514407 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,5n,103p,786b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on build/Informe-producto.pdf (5 pages, 88173 bytes).
+Output written on build/Informe-producto.pdf (6 pages, 89303 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

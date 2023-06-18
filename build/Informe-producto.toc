@@ -1,6 +1,5 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{3}{}%
-\contentsline {section}{\numberline {2}Mejoras en las herramientas ofimáticas y colaborativas}{3}{}%
-\contentsline {section}{\numberline {3}Aspectos procesales fortalecidos con la incorporación de las TIC}{3}{}%
-\contentsline {section}{\numberline {4}Presentación creativa del informe}{3}{}%
-\contentsline {section}{\numberline {5}Conclusión}{4}{}%
+\contentsline {section}{\numberline {2}Mejoras en las herramientas ofimáticas y colaborativas}{4}{}%
+\contentsline {section}{\numberline {3}Aspectos procesales fortalecidos con la incorporación de las TIC}{4}{}%
+\contentsline {section}{\numberline {4}Conclusión}{5}{}%

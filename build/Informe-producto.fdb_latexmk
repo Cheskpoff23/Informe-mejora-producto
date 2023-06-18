@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1687125442 "c:/Users/gusta/OneDrive/Escritorio/Informe-mejora-producto/Informe-producto.tex" "build/Informe-producto.pdf" "Informe-producto" 1687125444 2
-  "Informe-producto.tex" 1687125442 8810 93b43909ec0264eee0765d4c8d71529d ""
-  "build/Informe-producto.aux" 1687125444 847 a451f3d155068045dfde7556e519beb7 "pdflatex"
-  "build/Informe-producto.toc" 1687125444 443 8324bc9479c8dd3f0a0b24c37390710f "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/Informe-mejora-producto/Informe-producto.tex" 1687125442 8810 93b43909ec0264eee0765d4c8d71529d ""
+["pdflatex"] 1687126836 "c:/Users/gusta/OneDrive/Escritorio/Informe-mejora-producto/Informe-producto.tex" "build/Informe-producto.pdf" "Informe-producto" 1687126838 0
+  "Informe-producto.tex" 1687126835 8246 e3ef0bb7a812bf51ddea6e6d6d14fcef ""
+  "build/Informe-producto.aux" 1687126838 725 72d34b125dc004b15271d83d6b2b5c79 "pdflatex"
+  "build/Informe-producto.toc" 1687126838 362 54c5954df35302bcf7c99a74d5d2e53e "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/Informe-mejora-producto/Informe-producto.tex" 1687126835 8246 e3ef0bb7a812bf51ddea6e6d6d14fcef ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1686115241 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1686115241 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -17,7 +17,7 @@
   "c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1686135845 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1686112747 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel-spanish/spanish.ldf" 1686113078 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
-  "c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty" 1686112859 146936 df7499eefac590ca39eafa78f2819a4b ""
+  "c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty" 1687125949 146934 0e7a5b09cced07a69e7a44f4acbd81e0 ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel/locale/es/babel-es.ini" 1686112859 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex" 1686112859 336 a1c472f674f6f0c25a2c95ad8c7ad024 ""
   "c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def" 1686112860 6927 64b53e78feab932ab94f892bb5a5facf ""
