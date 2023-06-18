@@ -1,0 +1,150 @@
+\documentclass{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Define Article %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Using Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{mdframed}
+\usepackage{booktabs}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{psfrag}
+\usepackage{pgfplots}
+\usepackage{bm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Other Settings
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\geometry{letterpaper, margin=2.54cm}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{ocre}{RGB}{243,102,25}
+\definecolor{mygray}{RGB}{243,243,244}
+\definecolor{deepGreen}{RGB}{26,111,0}
+\definecolor{shallowGreen}{RGB}{235,255,255}
+\definecolor{deepBlue}{RGB}{61,124,222}
+\definecolor{shallowBlue}{RGB}{235,249,255}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Define an orangebox command %%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand\orangebox[1]{\fcolorbox{ocre}{mygray}{\hspace{1em}#1\hspace{1em}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% English Environments %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newtheoremstyle{mytheoremstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\newtheoremstyle{myproblemstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowGreen,linecolor=deepGreen,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{theorem}{Theorem}[section]
+\theoremstyle{mytheoremstyle}
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowBlue,linecolor=deepBlue,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{definition}{Definition}[section]
+\theoremstyle{myproblemstyle}
+\newmdtheoremenv[linecolor=black,leftmargin=0pt,innerleftmargin=10pt,innerrightmargin=10pt,]{problem}{Problem}[section]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Plotting Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepgfplotslibrary{colorbrewer}
+\pgfplotsset{width=8cm,compat=1.9}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title & Author %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\author{Gustavo Vergara}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    
+    
+    \vspace{3cm}
+    {\scshape\large DOCUMENTO CON ESPECIFICACIÓN DE REQUERIMIENTOS DEL SISTEMA DE GESTION DE CITAS MEDICAS PARA LA CLINICA REGIONAL DE MONTELIBANO \par}
+    \vspace{7cm}
+    \textbf\large\scshape{\par}
+         \vspace{0.5cm}
+         
+    {\Large Vergara Pareja Gustavo\par}
+    \vspace{7cm}
+    {\scshape\Large Tecnologia en Analisis y Desarrollo de Software \par}
+    \vspace{1cm}
+    {\scshape\Large SENA - Centro Agropecuario Regional Cauca\par}
+    \vspace{1cm}
+    {\Large \today \par}
+    \end{titlepage}
+
+\tableofcontents
+
+\newpage
+
+\begin{flushleft}
+    \large \textbf{EVIDENCIA A SOLUCIONAR}\\
+    \vspace{1cm}
+    
+    \large Evidencia de producto: GA1-220501092-AA4-EV02 documento con especificación de requerimientos
+    Respecto a lista de requerimientos el aprendiz deberá agregar una sección donde se describa cada requisito usando los siguientes elementos del estándar IEEE830.
+    \begin{itemize}
+    \item Perspectiva del producto.
+    \item Funciones del producto.
+    \item Características de los usuarios.
+    \item Restricciones.
+    \item Requisitos funcionales (formato de casos de uso).
+    \item Requisitos no funcionales.
+    \end{itemize}
+    Respecto a la lista de requerimientos el aprendiz deberá agregar una sección donde se describa cada requisito usando la estructura de historias de usuario con los siguientes elementos por historia:
+    \begin{itemize}
+    \item Número de historia (priorizada).
+    \item Nombre de la historia.
+    \item Usuario.
+    \item Puntos estimados de esfuerzo.
+    \item Descripción de la historia de usuario.
+    \item Observaciones.
+    \item Criterios de aceptación.
+    \end{itemize}
+    \end{flushleft}
+    \newpage
+
+
+\section{Introducción}
+
+Las Tecnologías de la Información y la Comunicación (TIC) han revolucionado la forma en que trabajamos y nos comunicamos en todos los ámbitos de la vida. En el área de ocupación, la incorporación de las TIC puede traer numerosas mejoras en términos de eficiencia, productividad y colaboración. En este informe, exploraremos las mejoras que ofrece la incorporación de las TIC en las herramientas ofimáticas y colaborativas, así como los aspectos procesales del área de ocupación que se pueden fortalecer con su implementación.
+
+\section{Mejoras en las herramientas ofimáticas y colaborativas}
+
+La incorporación de las TIC en las herramientas ofimáticas y colaborativas ofrece numerosas mejoras en los procesos de trabajo. Algunas de estas mejoras incluyen:
+
+\begin{enumerate}
+  \item Mayor eficiencia en la gestión de documentos: Las herramientas ofimáticas basadas en la nube permiten un acceso fácil y rápido a los documentos desde cualquier lugar y en cualquier momento. Esto facilita la colaboración en tiempo real y evita la pérdida de información.
+  
+  \item Mejor comunicación y colaboración: Las herramientas de comunicación en línea, como el correo electrónico, las videoconferencias y las plataformas de mensajería instantánea, permiten una comunicación más rápida y efectiva entre los miembros del equipo. Además, las herramientas colaborativas, como los documentos compartidos y los espacios de trabajo virtuales, facilitan la colaboración en proyectos y tareas.
+  
+  \item Automatización de tareas: Las TIC permiten la automatización de tareas repetitivas y tediosas, lo que ahorra tiempo y reduce errores. Por ejemplo, el uso de hojas de cálculo y software de contabilidad automatiza los cálculos y la generación de informes financieros.
+\end{enumerate}
+
+\section{Aspectos procesales fortalecidos con la incorporación de las TIC}
+
+La incorporación de las TIC en el área de ocupación fortalece varios aspectos procesales. Algunos de estos aspectos incluyen:
+
+\begin{enumerate}
+  \item Gestión de proyectos: Las herramientas de gestión de proyectos basadas en la nube permiten una planificación y seguimiento más eficientes de los proyectos. Estas herramientas facilitan la asignación de tareas, el seguimiento del progreso y la colaboración entre los miembros del equipo.
+  
+  \item Gestión del tiempo: Las aplicaciones y herramientas de gestión del tiempo ayudan a los empleados a organizar y priorizar sus tareas, lo que mejora la productividad y reduce el estrés. Estas herramientas también permiten el seguimiento del tiempo dedicado a cada tarea, lo que facilita la facturación y la evaluación del rendimiento.
+  
+  \item Gestión del conocimiento: Las TIC permiten la creación y gestión de bases de conocimiento en línea, donde los empleados pueden acceder a información relevante y compartir su conocimiento con otros. Esto facilita el aprendizaje y la colaboración dentro de la organización.
+\end{enumerate}
+
+\section{Presentación creativa del informe}
+
+Para presentar el informe de forma creativa, se puede utilizar una herramienta TIC en línea, como una presentación de diapositivas interactiva, un video animado o una infografía. Estas herramientas permiten transmitir la información de manera visualmente atractiva y fácil de entender. Además, se pueden utilizar elementos como cuentos, caricaturas o personajes animados para hacer la presentación más entretenida y memorable.
+
+\section{Conclusión}
+
+La incorporación de las TIC en el área de ocupación ofrece numerosas mejoras en términos de eficiencia, productividad y colaboración. Las herramientas ofimáticas y colaborativas basadas en las TIC permiten una gestión más eficiente de documentos, una comunicación y colaboración más efectivas, y la automatización de tareas repetitivas. Además, las TIC fortalecen aspectos procesales como la gestión de proyectos, la gestión del tiempo y la gestión del conocimiento. Al presentar el informe de forma creativa utilizando herramientas TIC en línea, se puede transmitir la información de manera visualmente atractiva y memorable.
+
+\end{document}
